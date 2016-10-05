@@ -9,7 +9,7 @@ Aprovechamos de paso para aprender un poco de java.
 
 ### Desde una ventana terminal
 
-Para compilar el fichero "HolaMundo.java" ejecutamos la siguiente
+Para compilar el fichero `HolaMundo.java` ejecutamos la siguiente
 línea de comandos (es necesario tener instalado el *JDK*):
 
 ```console
