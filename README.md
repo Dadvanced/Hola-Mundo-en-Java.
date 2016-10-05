@@ -29,4 +29,9 @@ Y con **F8** se ejecuta (si no hay errores)
 
 ## Enlaces de interés
 
+* [Mi canal de YouTube](http://youtube.com/dadvancedpsp)
+* [Facebook de mi canal de YouTube](http://facebook.com/dadvancedpsp)
+
+Espero que te guste éste repositorio de GitHub, si es así, dale una
+estrellita. :star:
 
